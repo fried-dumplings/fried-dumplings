@@ -6,6 +6,14 @@
 
 ![](https://komarev.com/ghpvc/?username=fried-dumplings&color=58E6D9&style=flat&label=visitors)
 
+> 🌱 **Currently exploring** *new frameworks & cloud-native tech*
+>
+> 🔭 **Working on** *side projects & open source contributions*
+>
+> 💬 **Ask me about** *anything full-stack — I'm happy to chat!*
+>
+> ⚡ **Fun fact** *code is like dumplings — best when freshly made* 🥔
+
 ---
 
 #### 🛠️ Tech Stack
